@@ -1,0 +1,81 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Wk8_0303_inClass_Interface
+{
+    
+    interface IAnimal1
+    {
+        void AnimalSound();
+    }
+
+    class Pig : IAnimal1
+    {
+        public void AnimalSound()
+        {
+            Console.WriteLine("The pig says: oink oink");
+        }
+    }
+
+    interface IAnimal2 : IAnimal1
+    {
+        void AnimalJump();
+    }
+
+    class Animal : IAnimal2
+    {
+        public void AnimalSound()
+        {
+            Console.WriteLine("The animal says: oink oink");
+        }
+
+        public void AnimalJump()
+        {
+            Console.WriteLine("The animal can't jump");
+        }
+    }
+
+    interface A1
+    {
+        void animalSound();
+    }
+
+    interface A2
+    {
+        void animalSound();
+    }
+
+    class Cow: A1, A2
+    {
+        void A1.animalSound()
+        {
+            Console.WriteLine("A1 Animal Sound");
+        }
+        void A2.animalSound()
+        {
+            Console.WriteLine("A2 Animal Sound");
+        }
+    }
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Pig piglet = new Pig();
+            piglet.AnimalSound();
+
+            Animal a = new Animal();
+            a.AnimalSound();
+            a.AnimalJump();
+
+            A1 Gandy1 = new Cow();
+            A2 Gandy2 = new Cow();
+            Gandy1.animalSound();
+            Gandy2.animalSound();
+        }
+    }
+}

@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\EX 8A Bisection Algorithm\EX 8A Bisection Algorithm\bin\Debug\EX 8A Bisection Algorithm.exe.config
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\EX 8A Bisection Algorithm\EX 8A Bisection Algorithm\bin\Debug\EX 8A Bisection Algorithm.exe
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\EX 8A Bisection Algorithm\EX 8A Bisection Algorithm\bin\Debug\EX 8A Bisection Algorithm.pdb
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\EX 8A Bisection Algorithm\EX 8A Bisection Algorithm\obj\Debug\EX 8A Bisection Algorithm.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\EX 8A Bisection Algorithm\EX 8A Bisection Algorithm\obj\Debug\EX 8A Bisection Algorithm.exe
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\EX 8A Bisection Algorithm\EX 8A Bisection Algorithm\obj\Debug\EX 8A Bisection Algorithm.pdb

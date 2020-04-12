@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 8A Bisection Algorithm", "EX 8A Bisection Algorithm\EX 8A Bisection Algorithm.csproj", "{37A07048-6FE8-4F7D-A015-C450BA8737AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A07048-6FE8-4F7D-A015-C450BA8737AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A07048-6FE8-4F7D-A015-C450BA8737AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A07048-6FE8-4F7D-A015-C450BA8737AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A07048-6FE8-4F7D-A015-C450BA8737AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36F9C9B-6BF1-4436-96DA-D52C84CC24C1}
+	EndGlobalSection
+EndGlobal

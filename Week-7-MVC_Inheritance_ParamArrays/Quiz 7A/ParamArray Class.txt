@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Wk_7_0225_in_class
+{
+    class ParamArray
+    {
+        int total = 0;
+        public void AddIntegers(params int[] nums)
+        {
+            foreach (int num in nums)
+            {
+                total += num;
+            }
+            Console.WriteLine("This method adds all of the elements in the array");
+            Console.WriteLine(total);
+        }
+    }
+}

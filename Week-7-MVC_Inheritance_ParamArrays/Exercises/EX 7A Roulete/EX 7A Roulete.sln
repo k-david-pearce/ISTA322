@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 7A Roulete", "EX 7A Roulete\EX 7A Roulete.csproj", "{7F235ED6-932C-484F-BC4C-B234A599CB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F235ED6-932C-484F-BC4C-B234A599CB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F235ED6-932C-484F-BC4C-B234A599CB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F235ED6-932C-484F-BC4C-B234A599CB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F235ED6-932C-484F-BC4C-B234A599CB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6EBAC6-E644-4763-9F91-1D6E96DEBC4A}
+	EndGlobalSection
+EndGlobal

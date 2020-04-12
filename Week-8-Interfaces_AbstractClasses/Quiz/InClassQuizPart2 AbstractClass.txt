@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace InClassAbstractClass
+{
+    public abstract class Customer
+    {
+        public abstract void Print();
+    }
+
+    public abstract class Animal
+    {
+        public abstract void AnimalSound();
+        public void sleep()
+        {
+            Console.WriteLine("Zzz");
+        }
+    }
+    
+    class Pig : Animal
+    { public override void AnimalSound()
+        {
+            Console.WriteLine("The pig says wee wee");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Pig piglet = new Pig();
+            piglet.AnimalSound();
+            piglet.sleep();
+        }
+    }
+}

@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LINQSQLExample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            DataClasses1DataContext db = new DataClasses1DataContext();
+            IEnumerable<Customer> customers = db.Customers;
+
+            Console.WriteLine("This is the Top 5 results of c.ContactName, o.OrderDate, e.LastName");
+            var results = from c in db.Customers
+                          join o in db.Orders
+                          on c.CustomerID equals o.CustomerID
+                          join e in db.Employees
+                          on o.EmployeeID equals e.EmployeeID
+                          select new { c.ContactName, o.OrderDate, e.LastName };
+            foreach (var pair in results.Take(5))
+            {
+                Console.WriteLine(pair);
+            }
+
+            Console.WriteLine("\nThis is the Top 5 results of s.ContactName, p.ProductName");
+            var results2 = from s in db.Suppliers
+                          join p in db.Products
+                          on s.SupplierID equals p.SupplierID
+                          select new { s.ContactName, p.ProductName };
+            foreach (var pair in results2.Take(5))
+            {
+                Console.WriteLine(pair);
+            }
+        }
+    }
+}

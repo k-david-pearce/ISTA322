@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Wk_7_0225_in_class
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // 6. a) Create a Class ParamArray. 
+            // 6. b) Create a method AddIntegers, use foreach
+            // 6. c) Main create object, provide integers
+            ParamArray p = new ParamArray();
+            p.AddIntegers(3, 5, 8);
+
+        }
+    }
+}
+

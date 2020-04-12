@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 7\EX 7A Roulete\EX 7A Roulete\bin\Debug\EX 7A Roulete.exe.config
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 7\EX 7A Roulete\EX 7A Roulete\bin\Debug\EX 7A Roulete.exe
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 7\EX 7A Roulete\EX 7A Roulete\bin\Debug\EX 7A Roulete.pdb
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 7\EX 7A Roulete\EX 7A Roulete\obj\Debug\EX 7A Roulete.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 7\EX 7A Roulete\EX 7A Roulete\obj\Debug\EX 7A Roulete.exe
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 7\EX 7A Roulete\EX 7A Roulete\obj\Debug\EX 7A Roulete.pdb

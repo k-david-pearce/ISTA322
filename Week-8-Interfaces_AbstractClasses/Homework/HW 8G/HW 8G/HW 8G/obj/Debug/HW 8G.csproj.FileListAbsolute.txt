@@ -1,0 +1,6 @@
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\HW 8G\HW 8G\HW 8G\bin\Debug\HW 8G.exe.config
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\HW 8G\HW 8G\HW 8G\bin\Debug\HW 8G.exe
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\HW 8G\HW 8G\HW 8G\bin\Debug\HW 8G.pdb
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\HW 8G\HW 8G\HW 8G\obj\Debug\HW 8G.csprojAssemblyReference.cache
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\HW 8G\HW 8G\HW 8G\obj\Debug\HW 8G.exe
+C:\Users\erau\Desktop\ISTA 322 ASPNET\Week 8\HW 8G\HW 8G\HW 8G\obj\Debug\HW 8G.pdb
