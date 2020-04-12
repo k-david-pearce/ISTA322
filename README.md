@@ -1,1 +1,2 @@
 # ISTA322
+This course prepares students to develop dynamic Web applications using the .NET framework. Students are introduced to Web architecture and the MVC (Model-View-Controller) model and employ the Microsoft Web Technologies stack within the course project in order to develop a dynamic Web application. This course is part of a set of five related ISTA courses that make up the Cloud Applications Developer specialization's technical content.
